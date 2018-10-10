@@ -4,7 +4,7 @@
 
 # Site
 title: Guilherme Lessa
-subtitle: 'Ativação digital para igrejas e ministérios'
+subtitle: 'Ativação digital para igrejas e ministérios.'
 description:
 keywords:
 author: Guilherme Lessa
@@ -80,7 +80,7 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:guilessa/glhr.me.git
-  branch: site
+  branch: master
   message: Up to gh-pages
 
 # RSS
