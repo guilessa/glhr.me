@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://glhr.me/"/>
-  <updated>2018-10-10T16:08:18.813Z</updated>
+  <updated>2018-10-10T16:11:01.988Z</updated>
   <id>http://glhr.me/</id>
   
   <author>
@@ -15,6 +15,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Teste de postagem 2</title>
+    <link href="http://glhr.me/2018/10/10/Teste-de-postagem-2/"/>
+    <id>http://glhr.me/2018/10/10/Teste-de-postagem-2/</id>
+    <published>2018-10-10T16:11:01.000Z</published>
+    <updated>2018-10-10T16:11:01.988Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Teste de postagem</title>
